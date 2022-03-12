@@ -1,3 +1,3 @@
-# Modify this portfolio
+# This is my portfolio
 
-Make it your own! 
+- You can find my portfolio [here](https://dannys-portfolio.netlify.app/)!
