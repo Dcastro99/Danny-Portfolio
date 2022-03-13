@@ -1,20 +1,20 @@
 {
   "basic_info": {
     "name": "Danny Castro",
-    "titles": ["Software Developer"],
+    "titles": ["DevLife"],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/Dcastro99",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/dcastro99/",
+        "class": "fab fa-linkedin"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "dannyProfile.jpg"
   },
   "skills": {
     "icons": [
