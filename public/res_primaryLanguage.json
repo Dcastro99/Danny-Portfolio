@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I'm Danny Castro. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description_header": "Hey",
+    "description": "Love being creative, having things aesthetically sound, and working with a group to achieve a common goal. It's a DevLife for me!",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,38 +11,38 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Cookie-Stand",
+      "startDate": "2022",
+      "description": "This project was the first truley challenging project I faced in my time with CodeFellows. We worked with tables and multiple pages and arrays... you name it, we had it!  Very exciting for me to try out css and experiment with ideas. I love how I was able to use different ideas to make things pop!",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/Cookie-Stand/cookies_1.png",
+        "images/portfolio/Cookie-Stand/cookies_2.png"
       ],
-      "url": "",
+      "url": "https://dcastro99.github.io/cookie-stand/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "javasctript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-css3-plain",
+          "name": "css"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-html5-plain",
+          "name": "HTML"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "Horned-Animals",
+      "startDate": "2022",
+      "description": "My first project using React! Took a little getting used to when it cam to css but react is exciting to use. Using things like components to work with each other and having the ability to bring in bootstraps with already built in layouts, definitely changed the game!",
       "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
+        "images/portfolio/Horned-Animals/horned_1.png",
+        "images/portfolio/Horned-Animals/horned_2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://horns.netlify.app",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -51,58 +51,49 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "css"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
+      "title": "Bus-Mall",
+      "startDate": "2022",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/Bus-Mall/bus_1.png",
+        "images/portfolio/Bus-Mall/bus_2.png"
       ],
-      "url": "https://github.com",
+      "url": "https://dcastro99.github.io/BusMall/",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "javasctript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-css3-plain",
+          "name": "css"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-html5-plain",
+          "name": "HTML"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "",
+      "title": "Full-Stack Developer",
+      "years": "present",
+      "mainTech": ["JS "],
+      "technologies": ["HTML5", "CSS", "JavaScript", "Bootstrap"]
     }
   ]
 }
